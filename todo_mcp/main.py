@@ -1,7 +1,7 @@
 # import libraries
 from typing import Annotated, NamedTuple
 from fastmcp import FastMCP
-from todo_db import TodoDB
+from todo_mcp.todo_db import TodoDB
 
 # Load the database
 todo_db = TodoDB()
