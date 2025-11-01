@@ -1,0 +1,8 @@
+{
+  "main.js": {
+    "10": "Hello"
+  },
+  "test.js": {
+    "_10": "Second comment"
+  }
+}
